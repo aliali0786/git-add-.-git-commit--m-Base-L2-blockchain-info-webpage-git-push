@@ -13,3 +13,4 @@ Base is developer friendly.
 Base is used for Web3 applications.
 Base supports DeFi platforms.
 Base supports NFT marketplaces.
+Base supports blockchain games.
