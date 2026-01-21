@@ -4,3 +4,4 @@ Base is an Ethereum Layer 2 blockchain.
 Base is developed by Coinbase.
 Base is built using OP Stack technology.
 Base is developed by Coinbase.
+Base is built using OP Stack technology.
