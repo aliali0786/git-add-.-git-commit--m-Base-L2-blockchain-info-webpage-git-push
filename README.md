@@ -18,3 +18,4 @@ Base helps Ethereum scalability.
 Base reduces network congestion.
 Base sends final data to Ethereum mainnet.
 Base aims to onboard millions of users.
+Base improves Web3 adoption.
