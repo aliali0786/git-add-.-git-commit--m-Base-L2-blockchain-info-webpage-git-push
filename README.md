@@ -20,3 +20,4 @@ Base sends final data to Ethereum mainnet.
 Base aims to onboard millions of users.
 Base improves Web3 adoption.
 Base is a future ready Layer 2 solution.
+Project created by Rashid.
