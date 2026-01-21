@@ -5,3 +5,4 @@ Base is developed by Coinbase.
 Base is built using OP Stack technology.
 Base is developed by Coinbase.
 Base is built using OP Stack technology.
+Base reduces gas fees.
