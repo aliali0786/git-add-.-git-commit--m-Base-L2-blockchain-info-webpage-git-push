@@ -15,3 +15,4 @@ Base supports DeFi platforms.
 Base supports NFT marketplaces.
 Base supports blockchain games.
 Base helps Ethereum scalability.
+Base reduces network congestion.
