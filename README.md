@@ -16,3 +16,4 @@ Base supports NFT marketplaces.
 Base supports blockchain games.
 Base helps Ethereum scalability.
 Base reduces network congestion.
+Base sends final data to Ethereum mainnet.
