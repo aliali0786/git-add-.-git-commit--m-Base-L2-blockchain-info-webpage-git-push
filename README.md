@@ -10,3 +10,4 @@ Base increases transaction speed.
 Base provides Ethereum level security.
 Base supports smart contracts.
 Base is developer friendly.
+Base is used for Web3 applications.
