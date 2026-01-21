@@ -17,3 +17,4 @@ Base supports blockchain games.
 Base helps Ethereum scalability.
 Base reduces network congestion.
 Base sends final data to Ethereum mainnet.
+Base aims to onboard millions of users.
